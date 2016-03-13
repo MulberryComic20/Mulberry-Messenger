@@ -1,11 +1,11 @@
 {
-  "name": "Telegram",
+  "name": "Mulberry M",
   "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
   "version": "0.5.3",
   "type": "privileged",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Igor Zhukov",
+    "name": "Gideon Adams",
     "url": "https://github.com/zhukov"
   },
   "installs_allowed_from": [
