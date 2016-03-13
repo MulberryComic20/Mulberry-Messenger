@@ -1,8 +1,8 @@
 {
-  "name": "Telegram",
+  "name": "Mulberry M.",
   "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
   "version": "0.5.3",
-  "short_name": "Telegram",
+  "short_name": "Mulberry M.",
   "manifest_version": 2,
   "app": {
     "background": {
